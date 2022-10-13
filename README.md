@@ -2,7 +2,7 @@
 
 Math 252 Elementary Differential Equations at Rutgers University
 
-#Supplements
+# Supplements
 
 Available supplements, in a uniform PDF format are collected here. 
 
